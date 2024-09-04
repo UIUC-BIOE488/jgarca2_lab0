@@ -10,4 +10,4 @@
 - Submit the html on canvas (STEP 1)
 - Push the repo to Github  (STEP 2)
 
-  ** Both Steps are required **
+### **Both Steps are required**
